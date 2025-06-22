@@ -77,5 +77,5 @@ Thanks to the following resources and libraries:
 
 ## 👨‍💻 Author
 
-**Shashank Jha**  /  **Aadarsh Chaudhary**
+**Shashank Jha**  **/**  **Aadarsh Chaudhary**
 Electronics and Communication Engineering, GGSIPU  
